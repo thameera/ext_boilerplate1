@@ -1,7 +1,7 @@
 {
-  "name": "auth0-extension-with-react",
+  "name": "acct-linking-proto",
   "version": "1.0.0",
-  "description": "My extension for ..",
+  "description": "Acct Linking proto",
   "main": "index.js",
   "scripts": {
     "start": "webpack --config webpack.config.js && node build/bundle.js",
